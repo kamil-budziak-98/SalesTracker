@@ -37,7 +37,7 @@
             ClientSize = new Size(800, 450);
             Name = "MainForm";
             Text = "Sales Tracker";
-            Load += this.MainForm_Load;
+            Load += MainForm_Load;
             ResumeLayout(false);
         }
 
